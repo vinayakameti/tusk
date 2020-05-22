@@ -1,0 +1,3 @@
+open KFC website
+order chicken from the menu
+and wait for delivery and eat
